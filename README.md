@@ -1,6 +1,6 @@
 ### ehdtnn.github.io
 
-김동수
+### 김동수
 
 ## test title
 # test sub title
