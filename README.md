@@ -1,6 +1,7 @@
 ### ehdtnn.github.io
 
-### 김동수
+# 김동수
+## 자바 백엔드 
 
 ## test title
 # test sub title
